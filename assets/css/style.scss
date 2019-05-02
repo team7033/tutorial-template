@@ -14,3 +14,7 @@ section {
 .highlight {
   font-size: .95em;  
 }
+
+h1 + img {
+  display: none;
+}
