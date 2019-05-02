@@ -1,7 +1,5 @@
 # Tutorial Template
 
-[![GitHubPages](https://github.com/team7033/RITMA/blob/master/assets/github%20pages-available-blue.svg)](https://team7033.github.io/RITMA/)
-
 __Não esqueça de habilitar o GitHub Pages!__
 
 ## Instruções
