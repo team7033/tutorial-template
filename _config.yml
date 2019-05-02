@@ -7,3 +7,6 @@ include:
   - README.md
   
 theme: jekyll-theme-minimal
+show_downloads: true
+logo: /assets/logo-roosters.png
+description: Descrição do tutorial. Altere isso em __config.yml .
