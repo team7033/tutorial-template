@@ -4,6 +4,8 @@
 
 __Não esqueça de habilitar o GitHub Pages!__
 
+Aprenda markdown [aqui](https://guides.github.com/features/mastering-markdown/)
+
 ## Instruções
 
 Faça o download dos arquivos e crie um novo repositório.
